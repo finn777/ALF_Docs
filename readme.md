@@ -25,3 +25,6 @@ Create common environment/tenant:
 
 Create trial BC under common account:
 <https://trials.dynamics.com/Dynamics365/Signup/>
+
+Dynamics 365 Business Central Forum:
+<https://community.dynamics.com/business/f/758>
