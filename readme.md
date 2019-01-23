@@ -32,5 +32,5 @@ Dynamics 365 Business Central Forum:
 Exension Marketplace:
 <https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365-business-central>
 
-ObjectPermissionsReportApp:
+ObjectPermissionsWebApp:
 <http://alexef0test0nav.azurewebsites.net/navobjectpermissionsreportwebappazuresqldatabase-1/>
