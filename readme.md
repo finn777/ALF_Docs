@@ -34,3 +34,5 @@ Exension Marketplace:
 
 ObjectPermissionsWebApp:
 <http://alexef0test0nav.azurewebsites.net/navobjectpermissionsreportwebappazuresqldatabase-1/>
+
+old MSDN (NAV 2016): <https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2016/hh173988(v%3dnav.90)>
