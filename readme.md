@@ -10,6 +10,9 @@ Docs BC (APP):
 D365 BC for Partners (Blog):
 <https://community.dynamics.com/business/b/businesscentraldevitpro/>
 
+D365 BC (Blog):
+<https://community.dynamics.com/business/b/financials/>
+
 D365 BC for Partners (Yammer):
 <https://www.yammer.com/dynamicsnavdev#/home>
 
