@@ -21,7 +21,7 @@ BC DEV tools issues: <https://github.com/Microsoft/AL/issues/>
 BC Event issues: <https://github.com/Microsoft/ALAppExtensions/issues/>
 
 BC Ideas:
-<https://experience.dynamics.com/ideas/list/?forum=e288ef32-82ed-e611-8101-5065f38b21f1>
+<https://experience.dynamics.com/ideas/categories/?forum=e288ef32-82ed-e611-8101-5065f38b21f1&forumName=Dynamics%20365%20Business%20Central>
 
 Create common environment/tenant:
 <https://demos.microsoft.com/environments>
@@ -29,7 +29,7 @@ Create common environment/tenant:
 Create trial BC under common account:
 <https://trials.dynamics.com/Dynamics365/Signup/>
 
-Dynamics 365 Business Central Forum:
+**Dynamics 365 Business Central Forum**:
 <https://community.dynamics.com/business/f/758>
 
 Exension Marketplace:
