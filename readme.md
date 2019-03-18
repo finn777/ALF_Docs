@@ -45,4 +45,6 @@ NAV 2018: <https://docs.microsoft.com/en-us/dynamics-nav-app/index>
 
 old MSDN (NAV 2016): <https://docs.microsoft.com/en-us/previous-versions/dynamicsnav-2016/hh173988(v%3dnav.90)>
 
+Dynamics NAV Team Blog: <https://community.dynamics.com/nav/b/navteam/>
+
 Alexey Finogenov [INFO] posts: <https://community.dynamics.com/business/f/758/tags/Alexey%2bFinogenov>
