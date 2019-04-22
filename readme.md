@@ -7,8 +7,11 @@ Docs BC (DEV):
 Docs BC (APP):
 <https://docs.microsoft.com/en-us/dynamics365/business-central/>
 
-CU-s for BC (on-prem):
+CU-s for BC 13.x (October 2018) (on-prem):
 <https://support.microsoft.com/en-us/help/4470116/released-cumulative-updates-for-microsoft-dynamics-365-business>
+
+Download BC 14.x (April 2019) (on-prem):
+<https://mbs.microsoft.com/partnersource/global/support/support-news/bconpremdownload_2019>
 
 D365 BC for Partners (Blog):
 <https://community.dynamics.com/business/b/businesscentraldevitpro/>
