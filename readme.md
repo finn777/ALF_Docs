@@ -50,4 +50,6 @@ old MSDN (NAV 2016): <https://docs.microsoft.com/en-us/previous-versions/dynamic
 
 Dynamics NAV Team Blog: <https://community.dynamics.com/nav/b/navteam/>
 
+**The “Ready to Go” Online Learning Catalog**: <https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-learning-catalog>
+
 Alexey Finogenov [INFO] posts: <https://community.dynamics.com/business/f/758/tags/Alexey%2bFinogenov>
