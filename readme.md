@@ -52,4 +52,6 @@ Dynamics NAV Team Blog: <https://community.dynamics.com/nav/b/navteam/>
 
 **The “Ready to Go” Online Learning Catalog**: <https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-learning-catalog>
 
+Search International Terminology - Microsoft | Language Portal: <https://www.microsoft.com/en-us/language>
+
 Alexey Finogenov [INFO] posts: <https://community.dynamics.com/business/f/758/tags/Alexey%2bFinogenov>
