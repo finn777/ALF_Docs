@@ -13,12 +13,12 @@ CU-s for BC 13.x (October 2018) (on-prem):
 CU-s for BC 14.x (Spring / April 2019) (on-prem):
 <https://support.microsoft.com/en-us/help/4501292/released-cumulative-updates-for-microsoft-dynamics-365-business>
 
-Microsoft Dynamics 365 Blog (BC,NAV): <https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/nav/>
+D365 (BC,NAV) cloudblogs: <https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/nav/>
 
-D365 BC for Partners (Blog):
+D365 BC for Partners community (Blog):
 <https://community.dynamics.com/business/b/businesscentraldevitpro/>
 
-D365 BC (Blog):
+D365 BC community (Blog):
 <https://community.dynamics.com/business/b/financials/>
 
 D365 BC for Partners (Yammer):
