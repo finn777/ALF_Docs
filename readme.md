@@ -38,7 +38,7 @@ Create trial BC under common account:
 <https://trials.dynamics.com/Dynamics365/Signup/>
 
 **Dynamics 365 Business Central Forum**:
-<https://community.dynamics.com/business/f/758>
+<https://community.dynamics.com/business/f/dynamics-365-business-central-forum>
 
 Exension Marketplace:
 <https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365-business-central>
