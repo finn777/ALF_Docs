@@ -56,7 +56,7 @@ Dynamics NAV Team Blog: <https://community.dynamics.com/nav/b/navteam/>
 
 Search International Terminology - Microsoft | Language Portal: <https://www.microsoft.com/en-us/language>
 
-Alexey Finogenov [INFO] posts: <https://community.dynamics.com/business/f/758/tags/Alexey%2bFinogenov>
+Alexey Finogenov [INFO] posts: <https://community.dynamics.com/business/f/dynamics-365-business-central-forum/tags/Alexey%2bFinogenov>
 
 (blog archive 2008-2018) About Dynamics NAV/Business Central, Alexey Finogenov: <https://blogs.technet.microsoft.com/alexef/> 
 
