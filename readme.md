@@ -32,7 +32,7 @@ BC Ideas:
 <https://experience.dynamics.com/ideas/categories/?forum=e288ef32-82ed-e611-8101-5065f38b21f1&forumName=Dynamics%20365%20Business%20Central>
 
 Create common environment/tenant:
-<https://demos.microsoft.com/environments>
+<https://cdx.transform.microsoft.com/>
 
 Create trial BC under common account:
 <https://trials.dynamics.com/Dynamics365/Signup/>
