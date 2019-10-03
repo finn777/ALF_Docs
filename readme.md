@@ -7,6 +7,8 @@ Docs BC (DEV):
 Docs BC (APP):
 <https://docs.microsoft.com/en-us/dynamics365/business-central/>
 
+Business Central on premises 2019 Wave 2 Release: <https://mbs.microsoft.com/partnersource/global/support/support-news/bconpremdownload_2019_wave2>
+
 CU-s for BC 14.x (Spring / April 2019) (on-prem):
 <https://support.microsoft.com/en-us/help/4501292/released-cumulative-updates-for-microsoft-dynamics-365-business>
 
@@ -20,6 +22,14 @@ CU-s NAV 2017: <https://support.microsoft.com/en-us/help/3210255/released-cumula
 CU-s NAV 2016: <https://support.microsoft.com/en-us/help/3108728/released-cumulative-updates-for-microsoft-dynamics-nav-2016>
 
 CU-s NAV 2015: <https://support.microsoft.com/en-us/help/3014609/released-cumulative-updates-for-microsoft-dynamics-nav-2015>
+
+**microsoft/navcontainerhelper**: Official Microsoft repository for NavContainerHelper, a PowerShell module, which makes it easier: <https://github.com/microsoft/navcontainerhelper>
+
+microsoft/bconprem - Docker Hub: <https://hub.docker.com/r/microsoft/bconprem/>
+
+microsoft/bcsandbox - Docker Hub: <https://hub.docker.com/r/microsoft/bcsandbox/>
+
+microsoft/dynamics-nav - Docker Hub: <https://hub.docker.com/r/microsoft/dynamics-nav/>
 
 D365 (BC,NAV) cloudblogs: <https://cloudblogs.microsoft.com/dynamics365/it/product/business-central/nav/>
 
