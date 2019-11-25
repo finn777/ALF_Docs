@@ -9,6 +9,8 @@ Docs BC (APP):
 
 15.x RTM: <https://mbs.microsoft.com/partnersource/global/support/support-news/bconpremdownload_2019_wave2>
 
+CU-s for BC 15.x (2019 Release Wave 2) (on-prem): <https://support.microsoft.com/en-us/help/4528706/released-updates-for-microsoft-dynamics-365-business-central-2019>
+
 CU-s for BC 14.x (Spring / April 2019) (on-prem):
 <https://support.microsoft.com/en-us/help/4501292/released-cumulative-updates-for-microsoft-dynamics-365-business>
 
@@ -46,8 +48,7 @@ BC DEV tools issues: <https://github.com/Microsoft/AL/issues/>
 
 BC Event issues: <https://github.com/Microsoft/ALAppExtensions/issues/>
 
-BC Ideas:
-<https://experience.dynamics.com/ideas/categories/?forum=e288ef32-82ed-e611-8101-5065f38b21f1&forumName=Dynamics%20365%20Business%20Central>
+BC Ideas: <https://aka.ms/bcideas>
 
 Create common environment/tenant:
 <https://cdx.transform.microsoft.com/>
