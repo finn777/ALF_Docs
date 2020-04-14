@@ -73,7 +73,7 @@ old MSDN (NAV 2016): <https://docs.microsoft.com/en-us/previous-versions/dynamic
 
 Dynamics NAV Team Blog: <https://community.dynamics.com/nav/b/navteam/>
 
-**The “Ready to Go” Online Learning Catalog**: <https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-learning-catalog>
+**The “Ready to Go” Online Learning Catalog**: <https://docs.microsoft.com/en-us/dynamics365/business-central/readiness/readiness-learning-catalog>
 
 Business Central learning paths: <https://docs.microsoft.com/en-us/learn/browse/?products=dynamics-business-central>
 
