@@ -4,6 +4,9 @@
 Docs BC (DEV):
 <https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/>
 
+Performance Overview:
+<https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/performance/performance-overview>
+
 Docs BC (APP):
 <https://docs.microsoft.com/en-us/dynamics365/business-central/>
 
