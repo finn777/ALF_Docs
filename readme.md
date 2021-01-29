@@ -1,8 +1,8 @@
 ## Useful links
 ![](media/ALFlogo.png)
 
-**Dynamics 365 Business Central 2020 release wave 2 (planned-features)**:
-<https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/smb/dynamics365-business-central/planned-features>
+**Dynamics 365 Business Central 2021 release wave 1 (planned-features)**:
+<https://docs.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/planned-features>
 
 Docs BC (DEV):
 <https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/>
