@@ -17,6 +17,8 @@ Docs BC (APP):
 
 16.x RTM: <https://businesscenter.mbs.microsoft.com/#contentdetail/msdbcentralonprem20wave1>
 
+CU-s for BC 18.x (2021 Release Wave 1) (on-prem): <https://support.microsoft.com/en-us/topic/released-updates-for-microsoft-dynamics-365-business-central-2021-release-wave-1-cba50f7c-8950-4795-bc86-53fb39e675d6>
+
 CU-s for BC 17.x (2020 Release Wave 2) (on-prem): <https://support.microsoft.com/en-us/help/4583507/released-updates-for-microsoft-dynamics-365-business-central-2020>
 
 CU-s for BC 16.x (2020 Release Wave 1) (on-prem): <https://support.microsoft.com/en-us/help/4549687/released-updates-for-microsoft-dynamics-365-business-central-2020>
