@@ -13,6 +13,8 @@ Performance Overview:
 Docs BC (APP):
 <https://docs.microsoft.com/en-us/dynamics365/business-central/>
 
+19.x RTM: <https://www.microsoft.com/en-us/download/details.aspx?id=103487>
+
 17.x RTM: <https://businesscenter.mbs.microsoft.com/#contentdetail/msdbcentralonprem20wave2>
 
 16.x RTM: <https://businesscenter.mbs.microsoft.com/#contentdetail/msdbcentralonprem20wave1>
