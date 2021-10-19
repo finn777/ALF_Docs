@@ -13,6 +13,9 @@ Performance Overview:
 Docs BC (APP):
 <https://docs.microsoft.com/en-us/dynamics365/business-central/>
 
+Dynamics 365 Business Central on-premises (Modern Policy) - Microsoft Lifecycle: 
+<https://docs.microsoft.com/en-us/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy>
+
 19.x RTM: <https://www.microsoft.com/en-us/download/details.aspx?id=103487>
 
 17.x RTM: <https://businesscenter.mbs.microsoft.com/#contentdetail/msdbcentralonprem20wave2>
