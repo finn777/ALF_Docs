@@ -4,6 +4,9 @@
 **New and Planned for Dynamics 365 Business Central**:
 <https://docs.microsoft.com/en-us/dynamics365/business-central/product-news>
 
+Business Central 2022 release wave 1 plan:
+<https://docs.microsoft.com/en-us/dynamics365-release-plan/2022wave1/smb/dynamics365-business-central/planned-features>
+
 Docs BC (DEV):
 <https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/>
 
