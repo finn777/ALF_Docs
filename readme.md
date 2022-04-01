@@ -19,11 +19,13 @@ Docs BC (APP):
 Dynamics 365 Business Central on-premises (Modern Policy) - Microsoft Lifecycle: 
 <https://docs.microsoft.com/en-us/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy>
 
-19.x RTM: <https://www.microsoft.com/en-us/download/details.aspx?id=103487>
+20.0 RTM: <https://www.microsoft.com/en-us/download/details.aspx?id=104062>
 
-17.x RTM: <https://businesscenter.mbs.microsoft.com/#contentdetail/msdbcentralonprem20wave2>
+19.0 RTM: <https://www.microsoft.com/en-us/download/details.aspx?id=103487>
 
-16.x RTM: <https://businesscenter.mbs.microsoft.com/#contentdetail/msdbcentralonprem20wave1>
+17.0 RTM: <https://businesscenter.mbs.microsoft.com/#contentdetail/msdbcentralonprem20wave2>
+
+16.0 RTM: <https://businesscenter.mbs.microsoft.com/#contentdetail/msdbcentralonprem20wave1>
 
 CU-s for BC 19.x (2021 Release Wave 2) (on-prem): <https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/deployment/update-versions-19>
 
