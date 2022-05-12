@@ -27,6 +27,8 @@ Dynamics 365 Business Central on-premises (Modern Policy) - Microsoft Lifecycle:
 
 16.0 RTM: <https://businesscenter.mbs.microsoft.com/#contentdetail/msdbcentralonprem20wave1>
 
+CU-s for BC 20.x (2022 Release Wave 1) (on-prem): <https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/deployment/update-versions-20>
+
 CU-s for BC 19.x (2021 Release Wave 2) (on-prem): <https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/deployment/update-versions-19>
 
 CU-s for BC 18.x (2021 Release Wave 1) (on-prem): <https://support.microsoft.com/en-us/topic/released-updates-for-microsoft-dynamics-365-business-central-2021-release-wave-1-cba50f7c-8950-4795-bc86-53fb39e675d6>
